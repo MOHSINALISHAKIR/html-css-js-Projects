@@ -1,0 +1,31 @@
+span{
+    text-align: center;
+}
+#grey{
+background-color: grey;
+width: 150px;
+height: 90px;
+border:0;
+outline: 0;
+}
+#blue{
+background-color: blue;
+width: 150px;
+height: 90px;
+border:0;
+outline: 0;
+}
+#yellow{
+background-color: yellow;
+width: 150px;
+height: 90px;
+border:0;
+outline: 0;
+}
+#red{
+background-color: red;
+width: 150px;
+height: 90px;
+border:0;
+outline: 0;
+}
